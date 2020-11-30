@@ -9,6 +9,10 @@
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
 
 <!--START_SECTION:waka-->
+```text
+Java             1 hr 2 mins     ████████████████████████░   96.64 % 
+XML              2 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.29 % 
+```
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
