@@ -8,6 +8,7 @@
 ## Quote for the Day
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
 
+## Weekly Development
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
