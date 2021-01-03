@@ -10,6 +10,13 @@
 
 ## Weekly Development
 <!--START_SECTION:waka-->
+```text
+JavaScript       11 hrs 38 mins  █████████▓░░░░░░░░░░░░░░░   38.21 % 
+Vue.js           6 hrs 25 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.06 % 
+Blade Template   5 hrs 3 mins    ████░░░░░░░░░░░░░░░░░░░░░   16.62 % 
+SCSS             4 hrs 4 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+JSON             1 hr 9 mins     █░░░░░░░░░░░░░░░░░░░░░░░░   03.82 % 
+```
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
