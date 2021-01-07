@@ -3,12 +3,12 @@ name: Metrics
 on:
   # Schedule updates
   schedule: [{cron: "0 * * * *"}]
-  push: {branches: "master"}
+  push: {branches: ["master", "type2"]}
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: shivishbrahma/metrics@latest
         with:
           # You'll need to setup a personal token in your secrets.
           token: ${{ secrets.GH_TOKEN }}
