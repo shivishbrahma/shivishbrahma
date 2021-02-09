@@ -10,11 +10,11 @@
 
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.4%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
 
 **🐱 My Github Data** 
 
-> 🏆 104 Contributions in the Year 2021
+> 🏆 120 Contributions in the Year 2021
  > 
 > 📦 137.0 kB Used in Github's Storage 
  > 
