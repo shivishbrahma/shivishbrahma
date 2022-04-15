@@ -10,7 +10,7 @@
 
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.2%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My Github Data** 
 
@@ -148,7 +148,7 @@ Handlebars               2 repos             █░░░░░░░░░░�
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/purbayan-chowdhury/">
+<a href="https://www.linkedin.com/in/shivishbrahma/">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
