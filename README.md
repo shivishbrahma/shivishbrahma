@@ -137,37 +137,37 @@ Handlebars               2 repos             █░░░░░░░░░░�
 
 ## Checkout My Blogs on
 
-<a href="https://dev.to/shivishbrahma">
+<a href="https://dev.to/shivishbrahma" target="_blank">
     <img alt="Dev.to blog" src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white"/>
 </a>
-<a href="https://shivishbrahma.medium.com/">
+<a href="https://shivishbrahma.medium.com/" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
-<a href="https://shivishbrahma.github.io/publog/">
+<a href="https://shivishbrahma.github.io/publog/" target="_blank">
     <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ## Follow me on
 
-<a href="https://www.youtube.com/channel/UCUWzbLmu0rtklGv6rqWeb3Q">
+<a href="https://www.youtube.com/channel/UCUWzbLmu0rtklGv6rqWeb3Q" target="_blank">
   <img
     alt="Youtube"
     src="https://img.shields.io/badge/youtube-FF0000?logo=youtube&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://twitter.com/shivishbrahma">
+<a href="https://twitter.com/shivishbrahma" target="_blank">
   <img
     alt="Twitter"
     src="https://img.shields.io/badge/Twitter-1DA1F2?logo=twitter&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.instagram.com/shivishbrahma/">
+<a href="https://www.instagram.com/shivishbrahma/" target="_blank">
   <img
     alt="Instagram"
     src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white&style=for-the-badge"
   />
 </a>
-<a href="https://www.linkedin.com/in/shivishbrahma/">
+<a href="https://www.linkedin.com/in/shivishbrahma/" target="_blank">
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
