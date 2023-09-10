@@ -8,6 +8,7 @@
 
 <!--
 ## Quote for the Day
+
 ![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dracula)
 -->
 ## Weekly Development
@@ -110,7 +111,7 @@ Handlebars               2 repos             █░░░░░░░░░░�
 ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![React](https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vue3](https://img.shields.io/badge/vue%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
+![Vue](https://img.shields.io/badge/vue%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D)
 ![jQuery](https://img.shields.io/badge/jquery%20-%230769AD.svg?&style=for-the-badge&logo=jquery&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap%20-%23563D7C.svg?&style=for-the-badge&logo=bootstrap&logoColor=white)
 
@@ -151,7 +152,7 @@ Handlebars               2 repos             █░░░░░░░░░░�
 </a>
 
 ## Follow me on
-
+ 
 <a href="https://www.linkedin.com/in/shivishbrahma/" target="_blank">
   <img
     alt="Linkedin"
