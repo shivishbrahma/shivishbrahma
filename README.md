@@ -148,7 +148,7 @@ Handlebars               2 repos             █░░░░░░░░░░�
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://shivishbrahma.github.io/publog/" target="_blank">
-    <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Github Pages" src="https://img.shields.io/badge/publog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ## Follow me on
@@ -157,5 +157,12 @@ Handlebars               2 repos             █░░░░░░░░░░�
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.reddit.com/user/shivishbrahma1" target="_blank">
+  <img
+    alt="Reddit"
+    src="https://img.shields.io/badge/reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"
   />
 </a>
