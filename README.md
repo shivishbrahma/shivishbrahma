@@ -13,13 +13,15 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C417%20hrs%2020%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C413%20hrs%2045%20mins-blue)
+
+![Profile Views](http://img.shields.io/badge/Profile%20Views-18-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-44.5%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
-> 📦 147.4 kB Used in GitHub's Storage 
+> 📦 147.5 kB Used in GitHub's Storage 
  > 
 > 🏆 626 Contributions in the Year 2023
  > 
@@ -84,7 +86,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 25/11/2023 17:44:07 UTC
+ Last Updated on 25/11/2023 18:33:35 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
