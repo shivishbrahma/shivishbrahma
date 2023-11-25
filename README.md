@@ -1,6 +1,6 @@
 # Purbayan Chowdhury
 
-![Views Disabled](https://komarev.com/ghpvc?username=shivishbrahma&style=for-the-badge&color=green)
+<!--![Views Disabled](https://komarev.com/ghpvc?username=shivishbrahma&style=for-the-badge&color=green)-->
 
 - Nomoskar! I am Purbayan(পূর্বায়ণ).
 - I am a web developer, data science enthusisast, competitive coder and number cruncher.
@@ -142,7 +142,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
     <img alt="Medium" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/>
 </a>
 <a href="https://shivishbrahma.github.io/publog/" target="_blank">
-    <img alt="Github Pages" src="https://img.shields.io/badge/github%20pages-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
+    <img alt="Github Pages" src="https://img.shields.io/badge/publog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 ## Follow me on
@@ -151,5 +151,12 @@ CSS                      1 repo              ░░░░░░░░░░░�
   <img
     alt="Linkedin"
     src="https://img.shields.io/badge/linkedin-0077B5?logo=linkedin&logoColor=white&style=for-the-badge"
+  />
+</a>
+
+<a href="https://www.reddit.com/user/shivishbrahma1" target="_blank">
+  <img
+    alt="Reddit"
+    src="https://img.shields.io/badge/reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"
   />
 </a>
