@@ -1,6 +1,6 @@
 # Purbayan Chowdhury
 
-![Views Disabled](https://komarev.com/ghpvc?username=shivishbrahma&style=for-the-badge&color=green)
+<!--![Views Disabled](https://komarev.com/ghpvc?username=shivishbrahma&style=for-the-badge&color=green)-->
 
 - Nomoskar! I am Purbayan(পূর্বায়ণ).
 - I am a web developer, data science enthusisast, competitive coder and number cruncher.
