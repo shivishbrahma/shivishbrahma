@@ -140,7 +140,7 @@ Handlebars               2 repos             █░░░░░░░░░░�
 -->
 
 ## Competive Platform Badges
-![Codeforces](https://shivishbrahma-rest-api.netlify.app/cp_rating/codeforces?username=shivishnu)
+[![Codeforces](https://shivishbrahma-rest-api.netlify.app/cp/codeforces?username=shivishnu&style=for-the-badge)](https://codeforces.com/profile/shivishnu)
 
 ## Checkout My Blogs on
 
