@@ -139,6 +139,9 @@ Handlebars               2 repos             █░░░░░░░░░░�
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 -->
 
+## Competive Platform Badges
+![Codeforces](https://shivishbrahma-rest-api.netlify.app/cp_rating/codeforces?username=shivishnu)
+
 ## Checkout My Blogs on
 
 <a href="https://dev.to/shivishbrahma" target="_blank">
