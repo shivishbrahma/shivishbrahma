@@ -138,6 +138,14 @@ CSS                      1 repo              ░░░░░░░░░░░�
 <img src='https://random-memer.herokuapp.com/' title="Meme" alt="Please refresh the page is the meme doesn't show up.">
 -->
 
+## Competive Platform Badges
+<a href="https://codeforces.com/profile/shivishnu" target="_blank">
+    <img alt="Codeforces" src="https://shivishbrahma-rest-api.netlify.app/cp/codeforces?username=shivishnu&style=for-the-badge"/>
+</a>
+<a href="https://www.codewars.com/users/shivishbrahma" target="_blank">
+    <img alt="Codewars" src="https://www.codewars.com/users/shivishbrahma/badges/large" height="25"/>
+</a>
+
 ## Checkout My Blogs on
 
 <a href="https://dev.to/shivishbrahma" target="_blank">
