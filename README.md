@@ -13,7 +13,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C565%20hrs%2046%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C566%20hrs%2021%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-14-blue)
 
@@ -21,7 +21,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 149.1 kB Used in GitHub's Storage 
+> 📦 149.2 kB Used in GitHub's Storage 
  > 
 > 🏆 79 Contributions in the Year 2024
  > 
@@ -56,17 +56,15 @@ Sunday                   4823 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      3 hrs 36 mins       █████████████████░░░░░░░░   67.36 % 
-Blade Template           41 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.06 % 
-JSON                     27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.55 % 
-YAML                     18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.89 % 
-Other                    16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.02 % 
+PHP                      45 mins             ███████████░░░░░░░░░░░░░░   43.69 % 
+JSON                     37 mins             █████████░░░░░░░░░░░░░░░░   36.35 % 
+YAML                     20 mins             █████░░░░░░░░░░░░░░░░░░░░   19.97 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 21 mins       █████████████████████████   100.00 % 
+VS Code                  1 hr 44 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 21 mins       █████████████████████████   100.00 % 
+Windows                  1 hr 44 mins        █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +84,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2024 18:38:08 UTC
+ Last Updated on 22/02/2024 18:35:23 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
