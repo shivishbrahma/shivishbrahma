@@ -13,7 +13,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-2%2C591%20hrs%2039%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C593%20hrs%2010%20mins-blue)
 
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
@@ -22,8 +22,6 @@
 **🐱 My GitHub Data** 
 
 > 📦 149.4 kB Used in GitHub's Storage 
- > 
-> 🏆 162 Contributions in the Year 2024
  > 
 > 💼 Opted to Hire
  > 
@@ -56,17 +54,17 @@ Sunday                   5287 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-PHP                      2 hrs 9 mins        █████████████████░░░░░░░░   67.85 % 
-Markdown                 37 mins             █████░░░░░░░░░░░░░░░░░░░░   19.49 % 
-Blade Template           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
-Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.14 % 
-Vue.js                   0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+PHP                      2 hrs 40 mins       ██████████████░░░░░░░░░░░   56.60 % 
+Python                   1 hr 1 min          █████░░░░░░░░░░░░░░░░░░░░   21.69 % 
+Markdown                 37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.16 % 
+Blade Template           17 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.16 % 
+Bash                     5 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 11 mins       █████████████████████████   100.00 % 
+VS Code                  4 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 11 mins       █████████████████████████   100.00 % 
+Windows                  4 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -86,7 +84,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 15/03/2024 18:35:38 UTC
+ Last Updated on 16/03/2024 18:37:23 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
