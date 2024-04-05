@@ -13,6 +13,8 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-2%2C648%20hrs%2053%20mins-blue)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-0-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-83.0%20million%20lines%20of%20code-blue)
@@ -52,17 +54,17 @@ Sunday                   5812 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue.js                   7 hrs 16 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
-PHP                      4 hrs 51 mins       █████░░░░░░░░░░░░░░░░░░░░   19.68 % 
-JavaScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Blade Template           2 hrs 17 mins       ██░░░░░░░░░░░░░░░░░░░░░░░   09.27 % 
-Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.98 % 
+Vue.js                   7 hrs 16 mins       ████████░░░░░░░░░░░░░░░░░   30.36 % 
+PHP                      4 hrs 28 mins       █████░░░░░░░░░░░░░░░░░░░░   18.71 % 
+JavaScript               3 hrs 17 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.72 % 
+Blade Template           1 hr 55 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.01 % 
+Bash                     1 hr 43 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.21 % 
 
 🔥 Editors: 
-VS Code                  24 hrs 41 mins      █████████████████████████   100.00 % 
+VS Code                  23 hrs 56 mins      █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  24 hrs 41 mins      █████████████████████████   100.00 % 
+Windows                  23 hrs 56 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -82,7 +84,7 @@ CSS                      1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 04/04/2024 18:36:26 UTC
+ Last Updated on 05/04/2024 18:35:35 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
