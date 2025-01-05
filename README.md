@@ -4,7 +4,15 @@
 
 - Nomoskar! I am Purbayan(পূর্বায়ণ).
 - I am a web developer, data science enthusisast, competitive coder and number cruncher.
+- I'm a passionate software developer with a keen interest in building scalable and efficient applications.
 - Welcome to my github account
+
+## About Me
+
+- 🌱 Currently learning and exploring new technologies in the field of software development.
+- 💻 Experienced in **Python**, **JavaScript**, **Java**, and **C++**.
+- 🔭 Working on various open-source projects and contributing to the developer community.
+- 📫 How to reach me: [pur.cho.99@gmail.com](mailto:pur.cho.99@gmail.com)
 
 <!--
 ## Quote for the Day
@@ -161,7 +169,7 @@ Markdown                 1 repo              ░░░░░░░░░░░�
     <img alt="Github Pages" src="https://img.shields.io/badge/publog-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-## Follow me on
+## Connect with Me
  
 <a href="https://www.linkedin.com/in/shivishbrahma/" target="_blank">
   <img
@@ -175,4 +183,8 @@ Markdown                 1 repo              ░░░░░░░░░░░�
     alt="Reddit"
     src="https://img.shields.io/badge/reddit-FF4500?logo=reddit&logoColor=white&style=for-the-badge"
   />
+</a>
+
+<a href="https://shivishbrahma.github.io/" target="_blank">
+    <img alt="Portfolio" src="https://img.shields.io/badge/portfolio-%23121011.svg?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
