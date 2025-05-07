@@ -21,15 +21,13 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C387%20hrs%2056%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C388%20hrs%2039%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 140.4 kB Used in GitHub's Storage 
- > 
-> 🏆 411 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,18 +60,18 @@ Sunday                   7559 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 3 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   29.87 % 
-JavaScript               2 hrs 23 mins       █████░░░░░░░░░░░░░░░░░░░░   18.44 % 
-Blade Template           2 hrs 20 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.99 % 
-PHP                      1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
-XML                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.56 % 
+Markdown                 4 hrs 4 mins        ███████░░░░░░░░░░░░░░░░░░   29.65 % 
+Blade Template           2 hrs 49 mins       █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
+JavaScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.47 % 
+PHP                      1 hr 43 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.61 % 
+XML                      1 hr 6 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.11 % 
 
 🔥 Editors: 
-VS Code                  12 hrs 59 mins      █████████████████████████   99.87 % 
-Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+VS Code                  13 hrs 42 mins      █████████████████████████   99.88 % 
+Notepad++                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.12 % 
 
 💻 Operating System: 
-Windows                  13 hrs              █████████████████████████   100.00 % 
+Windows                  13 hrs 43 mins      █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -93,7 +91,7 @@ Markdown                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 06/05/2025 18:50:26 UTC
+ Last Updated on 07/05/2025 18:51:34 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
