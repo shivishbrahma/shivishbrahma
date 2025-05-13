@@ -21,15 +21,13 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C392%20hrs%2029%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C393%20hrs%2031%20mins-blue)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-93.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 140.4 kB Used in GitHub's Storage 
- > 
-> 🏆 413 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -62,17 +60,17 @@ Sunday                   7559 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Markdown                 1 hr 59 mins        █████████░░░░░░░░░░░░░░░░   36.70 % 
-SQL                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   24.35 % 
-Python                   1 hr 14 mins        ██████░░░░░░░░░░░░░░░░░░░   22.91 % 
-Blade Template           43 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.45 % 
-PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
+Markdown                 2 hrs 26 mins       ███████████░░░░░░░░░░░░░░   43.69 % 
+Python                   1 hr 47 mins        ████████░░░░░░░░░░░░░░░░░   32.09 % 
+SQL                      46 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.88 % 
+Blade Template           28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.63 % 
+PHP                      3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 25 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 35 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 25 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -92,7 +90,7 @@ Markdown                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 12/05/2025 18:51:56 UTC
+ Last Updated on 13/05/2025 18:50:44 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
