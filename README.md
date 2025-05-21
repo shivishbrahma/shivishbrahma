@@ -21,15 +21,11 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C405%20hrs%2035%20mins-blue)
-
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.6%20million%20lines%20of%20code-blue)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-96.7%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
 
 > 📦 140.4 kB Used in GitHub's Storage 
- > 
-> 🏆 432 Contributions in the Year 2025
  > 
 > 💼 Opted to Hire
  > 
@@ -37,45 +33,6 @@
  > 
 > 🔑 4 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4050 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.60 % 
-🌆 Daytime                8225 commits        █████░░░░░░░░░░░░░░░░░░░░   21.53 % 
-🌃 Evening                17376 commits       ███████████░░░░░░░░░░░░░░   45.48 % 
-🌙 Night                  8553 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   5878 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
-Tuesday                  4181 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
-Wednesday                5012 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.12 % 
-Thursday                 4259 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.15 % 
-Friday                   4316 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.30 % 
-Saturday                 6726 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.61 % 
-Sunday                   7832 commits        █████░░░░░░░░░░░░░░░░░░░░   20.50 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-Python                   5 hrs 37 mins       ███████████░░░░░░░░░░░░░░   42.90 % 
-PHP                      2 hrs 47 mins       █████░░░░░░░░░░░░░░░░░░░░   21.30 % 
-Blade Template           2 hrs 3 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.72 % 
-Markdown                 1 hr 7 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.60 % 
-JavaScript               37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.71 % 
-
-🔥 Editors: 
-VS Code                  12 hrs 49 mins      ████████████████████████░   97.92 % 
-Notepad++                16 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
-
-💻 Operating System: 
-Windows                  13 hrs 6 mins       █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -93,7 +50,7 @@ Markdown                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 19/05/2025 18:51:57 UTC
+ Last Updated on 21/05/2025 18:53:31 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
