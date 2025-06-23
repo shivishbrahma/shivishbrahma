@@ -145,17 +145,21 @@ Markdown                 1 repo              ░░░░░░░░░░░�
 -->
 
 ## Competive Platform Badges
+
+<a href="https://projecteuler.net/progress=shivishbrahma" target="_blank">
+    <img alt="euler-code" src="https://projecteuler.net/profile/shivishbrahma.png" height="40"/>
+</a>
+
 <a href="https://codeforces.com/profile/shivishnu" target="_blank">
     <img alt="Codeforces" src="https://shivishbrahma-rest-api.netlify.app/cp/codeforces?username=shivishnu&style=for-the-badge" height="25"/>
 </a>
+
 <a href="https://www.codewars.com/users/shivishbrahma" target="_blank">
     <img alt="Codewars" src="https://www.codewars.com/users/shivishbrahma/badges/large" height="25"/>
 </a>
 <a href="https://leetcode.com/shivishbrahma/" target="_blank">
-    <img alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fbadge.xyli.tech/%2Fapi%2Fusers%2Fshivishbrahma&logo=leetcode&logoColor=yellow" height="25"/>
-</a>
-<a href="https://projecteuler.net/progress=shivishbrahma" target="_blank">
-    <img alt="euler-code" src="https://projecteuler.net/profile/shivishbrahma.png" height="40"/>
+    <img alt="leetcode" src="https://img.shields.io/badge/dynamic/json?style=for-the-badge&labelColor=black&color=%23ffa116&label=Solved&query=solvedOverTotal&url=https%3A%2F%2Fleetcode-badge.vercel.app%2Fapi%2Fusers%2Fshivishbrahma&logo=leetcode&logoColor=yellow" height="25"/> <br/>
+ <img alt="leetcode badges" src="https://leetcode-badge-showcase.vercel.app/api?username=shivishbrahma&animated=true"/>
 </a>
 
 ## Checkout My Blogs on
