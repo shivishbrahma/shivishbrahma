@@ -29,8 +29,6 @@
 
 > 📦 143.0 kB Used in GitHub's Storage 
  > 
-> 🏆 808 Contributions in the Year 2025
- > 
 > 💼 Opted to Hire
  > 
 > 📜 41 Public Repositories 
@@ -93,7 +91,7 @@ Markdown                 1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 18/08/2025 18:56:40 UTC
+ Last Updated on 19/08/2025 18:52:15 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
