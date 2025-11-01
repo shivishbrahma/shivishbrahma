@@ -21,8 +21,6 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C600%20hrs-blue)
-
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-105.6%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -37,40 +35,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                4713 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.79 % 
-🌆 Daytime                9482 commits        █████░░░░░░░░░░░░░░░░░░░░   21.71 % 
-🌃 Evening                19653 commits       ███████████░░░░░░░░░░░░░░   44.99 % 
-🌙 Night                  9832 commits        ██████░░░░░░░░░░░░░░░░░░░   22.51 % 
-```
-📅 **I'm Most Productive on Sunday** 
-
-```text
-Monday                   6562 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.02 % 
-Tuesday                  4822 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Wednesday                5648 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.93 % 
-Thursday                 4911 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Friday                   5053 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.57 % 
-Saturday                 7567 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.32 % 
-Sunday                   9117 commits        █████░░░░░░░░░░░░░░░░░░░░   20.87 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -88,7 +52,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 31/10/2025 18:55:28 UTC
+ Last Updated on 01/11/2025 18:47:56 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
