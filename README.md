@@ -88,7 +88,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 09/11/2025 18:48:00 UTC
+ Last Updated on 10/11/2025 18:53:44 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
