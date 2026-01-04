@@ -21,6 +21,8 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C604%20hrs%206%20mins-blue)
+
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.94%20million%20lines%20of%20code-blue)
 
 **🐱 My GitHub Data** 
@@ -35,6 +37,40 @@
  > 
 > 🔑 6 Private Repositories 
  > 
+**I'm a Night 🦉** 
+
+```text
+🌞 Morning                4733 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.75 % 
+🌆 Daytime                9585 commits        █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+🌃 Evening                19844 commits       ███████████░░░░░░░░░░░░░░   45.06 % 
+🌙 Night                  9875 commits        ██████░░░░░░░░░░░░░░░░░░░   22.42 % 
+```
+📅 **I'm Most Productive on Sunday** 
+
+```text
+Monday                   6600 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.99 % 
+Tuesday                  4863 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                5674 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.88 % 
+Thursday                 4962 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Friday                   5064 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.50 % 
+Saturday                 7650 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.37 % 
+Sunday                   9224 commits        █████░░░░░░░░░░░░░░░░░░░░   20.95 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+Text                     4 mins              █████████████████████████   100.00 % 
+
+🔥 Editors: 
+Sublime Text             4 mins              █████████████████████████   100.00 % 
+
+💻 Operating System: 
+Windows                  4 mins              █████████████████████████   100.00 % 
+```
+
 **I Mostly Code in Python** 
 
 ```text
@@ -52,7 +88,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 03/01/2026 18:54:11 UTC
+ Last Updated on 04/01/2026 18:59:05 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
