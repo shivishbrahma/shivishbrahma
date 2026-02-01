@@ -130,9 +130,9 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![VSCode](https://img.shields.io/badge/VSCode-007ACC?logo=visual-studio-code&logoColor=white&style=for-the-badge)
 ![SublimeText](https://img.shields.io/badge/SublimeText-FF9800?logo=sublime-text&logoColor=white&style=for-the-badge)
 
-![Purbayan's github stats](https://github-readme-stats.vercel.app/api?username=shivishbrahma&theme=dracula&count_private=true)
+<!--![Purbayan's github stats](https://github-readme-stats.vercel.app/api?username=shivishbrahma&theme=dracula&count_private=true)-->
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivishbrahma&theme=dracula&layout=compact)](https://github.com/shivishbrahma/github-readme-stats)
+<!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shivishbrahma&theme=dracula&layout=compact)](https://github.com/shivishbrahma/github-readme-stats)-->
 
 <!--
 ## A Meme for Meme Lovers
