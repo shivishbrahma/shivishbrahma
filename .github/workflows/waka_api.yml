@@ -3,6 +3,8 @@ name: Waka Readme
 on:
   schedule:
     - cron: '30 18 * * *'
+  push:
+    branches: ["main"]
 jobs:
   update-readme:
     name: Update Readme with Metrics
@@ -19,3 +21,4 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           BADGE_STYLE: "for-the-badge"
+          DEBUG_LOGGING: "True"
