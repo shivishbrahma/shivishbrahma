@@ -19,3 +19,4 @@ jobs:
           SHOW_UPDATED_DATE: "True"
           SHOW_TOTAL_CODE_TIME: "True"
           BADGE_STYLE: "for-the-badge"
+          DEBUG_LOGGING: "True"
