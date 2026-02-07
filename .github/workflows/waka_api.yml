@@ -3,6 +3,8 @@ name: Waka Readme
 on:
   schedule:
     - cron: '30 18 * * *'
+  push:
+    branches: ["main"]
 jobs:
   update-readme:
     name: Update Readme with Metrics
