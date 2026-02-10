@@ -29,6 +29,8 @@
 
 > 📦 151.8 kB Used in GitHub's Storage 
  > 
+> 🏆 27 Contributions in the Year 2026
+ > 
 > 💼 Opted to Hire
  > 
 > 📜 43 Public Repositories 
@@ -86,7 +88,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 10/02/2026 10:34:45 UTC
+ Last Updated on 10/02/2026 10:41:32 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
