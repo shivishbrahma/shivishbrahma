@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 157.8 kB Used in GitHub's Storage 
+> 📦 157.9 kB Used in GitHub's Storage 
  > 
 > 🏆 47 Contributions in the Year 2026
  > 
@@ -83,7 +83,7 @@ Windows                  11 mins             ███████████�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 21/02/2026 20:03:10 UTC
+ Last Updated on 21/02/2026 20:03:29 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
