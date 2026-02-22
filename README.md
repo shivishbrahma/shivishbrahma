@@ -21,7 +21,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C605%20hrs%2015%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C606%20hrs%2017%20mins-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-111.19%20million%20lines%20of%20code-blue?style=flat)
 
@@ -62,14 +62,14 @@ Sunday                   9829 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Other                    7 mins              █████████████████░░░░░░░░   67.38 % 
-Text                     3 mins              ████████░░░░░░░░░░░░░░░░░   32.62 % 
+Text                     58 mins             ██████████████████████░░░   88.33 % 
+Other                    7 mins              ███░░░░░░░░░░░░░░░░░░░░░░   11.67 % 
 
 🔥 Editors: 
-Sublime Text             11 mins             █████████████████████████   100.00 % 
+Sublime Text             1 hr 6 mins         █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  11 mins             █████████████████████████   100.00 % 
+Windows                  1 hr 6 mins         █████████████████████████   100.00 % 
 ```
 
 **I Mostly Code in Python** 
@@ -89,7 +89,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 22/02/2026 18:39:48 UTC
+ Last Updated on 22/02/2026 18:47:07 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
