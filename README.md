@@ -27,7 +27,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 158.7 kB Used in GitHub's Storage 
+> 📦 158.8 kB Used in GitHub's Storage 
  > 
 > 🏆 47 Contributions in the Year 2026
  > 
@@ -88,7 +88,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 25/02/2026 10:41:08 UTC
+ Last Updated on 25/02/2026 10:47:20 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
