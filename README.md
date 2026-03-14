@@ -62,13 +62,13 @@ Sunday                   9001 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Text                     32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 🔥 Editors: 
-Sublime Text             32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  32 mins             █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in Python** 
@@ -88,7 +88,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 14/03/2026 18:40:11 UTC
+ Last Updated on 14/03/2026 18:45:50 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
