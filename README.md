@@ -71,14 +71,8 @@ No Activity Tracked This Week
 No Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
-
 ```text
-Python                   13 repos            █████░░░░░░░░░░░░░░░░░░░░   18.57 % 
-Java                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Jinja                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+
 ```
 
 
@@ -88,7 +82,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 21/03/2026 00:35:07 UTC
+ Last Updated on 21/03/2026 00:35:29 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
