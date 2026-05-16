@@ -23,7 +23,7 @@
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-3%2C610%20hrs%2051%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-16.88%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-12.59%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -37,40 +37,6 @@
  > 
 > 🔑 6 Private Repositories 
  > 
-**I'm a Night 🦉** 
-
-```text
-🌞 Morning                1187 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
-🌆 Daytime                2470 commits        ███████░░░░░░░░░░░░░░░░░░   28.00 % 
-🌃 Evening                3319 commits        █████████░░░░░░░░░░░░░░░░   37.63 % 
-🌙 Night                  1845 commits        █████░░░░░░░░░░░░░░░░░░░░   20.92 % 
-```
-📅 **I'm Most Productive on Friday** 
-
-```text
-Monday                   1190 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
-Tuesday                  1016 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.52 % 
-Wednesday                862 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
-Thursday                 1383 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.68 % 
-Friday                   1570 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.80 % 
-Saturday                 1432 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.23 % 
-Sunday                   1368 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.51 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-💬 Programming Languages: 
-No Activity Tracked This Week
-
-🔥 Editors: 
-No Activity Tracked This Week
-
-💻 Operating System: 
-No Activity Tracked This Week
-```
-
 **I Mostly Code in Python** 
 
 ```text
@@ -88,7 +54,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 16/05/2026 19:30:22 UTC
+ Last Updated on 16/05/2026 20:20:17 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
