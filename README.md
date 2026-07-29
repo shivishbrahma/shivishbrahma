@@ -25,7 +25,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-22.49%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.48%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                1327 commits        ███░░░░░░░░░░░░░░░░░░░░░░   12.38 % 
-🌆 Daytime                2785 commits        ██████░░░░░░░░░░░░░░░░░░░   25.97 % 
-🌃 Evening                4359 commits        ██████████░░░░░░░░░░░░░░░   40.65 % 
-🌙 Night                  2251 commits        █████░░░░░░░░░░░░░░░░░░░░   20.99 % 
+🌞 Morning                4260 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.39 % 
+🌆 Daytime                8693 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+🌃 Evening                18872 commits       ████████████░░░░░░░░░░░░░   46.02 % 
+🌙 Night                  9180 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   1458 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.60 % 
-Tuesday                  1219 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.37 % 
-Wednesday                1202 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Thursday                 1581 commits        ████░░░░░░░░░░░░░░░░░░░░░   14.75 % 
-Friday                   1748 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.30 % 
-Saturday                 1733 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.16 % 
-Sunday                   1781 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.61 % 
+Monday                   6249 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.24 % 
+Tuesday                  4534 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.06 % 
+Wednesday                5506 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Thursday                 4475 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   4607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Saturday                 7427 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   8207 commits        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
 ```
 
 
@@ -96,7 +96,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 28/07/2026 23:49:47 UTC
+ Last Updated on 29/07/2026 00:29:11 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
