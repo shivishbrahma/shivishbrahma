@@ -25,7 +25,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2013%20mins-blue?style=flat)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.43%20million%20lines%20of%20code-blue?style=flat)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.33%20million%20lines%20of%20code-blue?style=flat)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4234 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.43 % 
-🌆 Daytime                8639 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
-🌃 Evening                18649 commits       ███████████░░░░░░░░░░░░░░   45.92 % 
-🌙 Night                  9090 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
+🌞 Morning                4337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
+🌆 Daytime                8839 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
+🌃 Evening                19165 commits       ███████████░░░░░░░░░░░░░░   45.99 % 
+🌙 Night                  9332 commits        ██████░░░░░░░░░░░░░░░░░░░   22.39 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   6199 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.26 % 
-Tuesday                  4477 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.02 % 
-Wednesday                5447 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.41 % 
-Thursday                 4445 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
-Friday                   4564 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
-Saturday                 7351 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Sunday                   8129 commits        █████░░░░░░░░░░░░░░░░░░░░   20.02 % 
+Monday                   6374 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
+Tuesday                  4601 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
+Wednesday                5595 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
+Thursday                 4537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
+Friday                   4661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
+Saturday                 7545 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
+Sunday                   8360 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 
@@ -64,19 +64,37 @@ Sunday                   8129 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+TypeScript               2 hrs 4 mins        ███████████████████░░░░░░   76.71 % 
+Markdown                 23 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.39 % 
+Vue                      10 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+JavaScript               3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.18 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              2 hrs 42 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  2 hrs 42 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 2 hrs 42 mins (100.0%)
+
+✍️ 1,616 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 31,893,579 Input Tokens, 192,480 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 4 AI Sessions, 26 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📄 Detailed Prompter — average 1,379 characters per prompt
+🔁 Iterative Prompter — average 6 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +114,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 19:32:24 UTC
+ Last Updated on 02/08/2026 19:56:04 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
