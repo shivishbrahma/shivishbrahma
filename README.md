@@ -42,7 +42,7 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4335 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.40 % 
+🌞 Morning                4337 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
 🌆 Daytime                8837 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
 🌃 Evening                19164 commits       ███████████░░░░░░░░░░░░░░   45.99 % 
 🌙 Night                  9332 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
@@ -56,7 +56,7 @@ Wednesday                5595 commits        ███░░░░░░░░�
 Thursday                 4537 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
 Friday                   4661 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.19 % 
 Saturday                 7545 commits        █████░░░░░░░░░░░░░░░░░░░░   18.11 % 
-Sunday                   8355 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
+Sunday                   8357 commits        █████░░░░░░░░░░░░░░░░░░░░   20.06 % 
 ```
 
 
@@ -79,14 +79,14 @@ No Activity Tracked This Week
 No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in Python** 
+**I Mostly Code in JavaScript** 
 
 ```text
-Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   20.00 % 
-Java                     9 repos             ███░░░░░░░░░░░░░░░░░░░░░░   12.86 % 
-Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
-Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.86 % 
-Jinja                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.43 % 
+JavaScript               14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Python                   14 repos            █████░░░░░░░░░░░░░░░░░░░░   19.72 % 
+Rust                     4 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   05.63 % 
+Jupyter Notebook         2 repos             █░░░░░░░░░░░░░░░░░░░░░░░░   02.82 % 
+Jinja                    1 repo              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.41 % 
 ```
 
 
@@ -96,7 +96,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 02/08/2026 04:22:53 UTC
+ Last Updated on 02/08/2026 04:46:22 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
