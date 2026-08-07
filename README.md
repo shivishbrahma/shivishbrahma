@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 188.8 kB Used in GitHub's Storage 
+> 📦 188.9 kB Used in GitHub's Storage 
  > 
 > 🏆 307 Contributions in the Year 2026
  > 
@@ -64,19 +64,36 @@ Sunday                   8360 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+JavaScript               33 mins             █████████████████████░░░░   83.98 % 
+TypeScript               6 mins              ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+JSON                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.10 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+Claude Code              39 mins             █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  39 mins             █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 39 mins (100.0%)
+
+✍️ 67 lines written by AI, 0 lines written by hand (100.0% AI-written)
+
+🔤 2,349,283 Input Tokens, 17,919 Output Tokens
+
+💵 $0.00 Estimated AI Cost This Week
+
+🧠 2 AI Sessions, 9 AI Prompts
+
+🔎 AI Coding Insights:
+🤖 AI-Driven — 100.0% of written lines came from AI
+📚 Verbose Prompter — average 7,093 characters per prompt
+🔁 Iterative Prompter — average 4 prompts per session
+🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +113,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 07/08/2026 19:19:20 UTC
+ Last Updated on 07/08/2026 19:40:23 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
