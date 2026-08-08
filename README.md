@@ -25,7 +25,7 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2013%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.55%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-98.46%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4001 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.49 % 
-🌆 Daytime                8166 commits        █████░░░░░░░░░░░░░░░░░░░░   21.40 % 
-🌃 Evening                17459 commits       ███████████░░░░░░░░░░░░░░   45.76 % 
-🌙 Night                  8528 commits        ██████░░░░░░░░░░░░░░░░░░░   22.35 % 
+🌞 Morning                4111 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.47 % 
+🌆 Daytime                8372 commits        █████░░░░░░░░░░░░░░░░░░░░   21.32 % 
+🌃 Evening                18002 commits       ███████████░░░░░░░░░░░░░░   45.84 % 
+🌙 Night                  8786 commits        ██████░░░░░░░░░░░░░░░░░░░   22.37 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5819 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.25 % 
-Tuesday                  4201 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.01 % 
-Wednesday                5099 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.36 % 
-Thursday                 4211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.04 % 
-Friday                   4328 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.34 % 
-Saturday                 6889 commits        █████░░░░░░░░░░░░░░░░░░░░   18.06 % 
-Sunday                   7607 commits        █████░░░░░░░░░░░░░░░░░░░░   19.94 % 
+Monday                   6003 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  4331 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.03 % 
+Wednesday                5263 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.40 % 
+Thursday                 4309 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.97 % 
+Friday                   4427 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.27 % 
+Saturday                 7089 commits        █████░░░░░░░░░░░░░░░░░░░░   18.05 % 
+Sunday                   7849 commits        █████░░░░░░░░░░░░░░░░░░░░   19.99 % 
 ```
 
 
@@ -83,16 +83,16 @@ Windows                  39 mins             ███████████�
 
 ✍️ 67 lines written by AI, 0 lines written by hand (100.0% AI-written)
 
-🔤 2,349,283 Input Tokens, 17,919 Output Tokens
+🔤 2,120,135 Input Tokens, 17,567 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 9 AI Prompts
+🧠 1 AI Sessions, 8 AI Prompts
 
 🔎 AI Coding Insights:
 🤖 AI-Driven — 100.0% of written lines came from AI
-📚 Verbose Prompter — average 7,093 characters per prompt
-🔁 Iterative Prompter — average 4 prompts per session
+📚 Verbose Prompter — average 7,973 characters per prompt
+🔁 Iterative Prompter — average 8 prompts per session
 🚀 High AI Trust — 0.0% of changed lines were hand-edited
 ```
 
@@ -113,7 +113,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 08/08/2026 19:28:02 UTC
+ Last Updated on 08/08/2026 19:51:24 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
