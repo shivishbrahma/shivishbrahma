@@ -21,11 +21,11 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%2043%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C549%20hrs%2053%20mins-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2013%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-89.76%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-95.61%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                3808 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.48 % 
-🌆 Daytime                7793 commits        █████░░░░░░░░░░░░░░░░░░░░   21.44 % 
-🌃 Evening                16619 commits       ███████████░░░░░░░░░░░░░░   45.72 % 
-🌙 Night                  8128 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
+🌞 Morning                4028 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.46 % 
+🌆 Daytime                8240 commits        █████░░░░░░░░░░░░░░░░░░░░   21.41 % 
+🌃 Evening                17618 commits       ███████████░░░░░░░░░░░░░░   45.77 % 
+🌙 Night                  8607 commits        ██████░░░░░░░░░░░░░░░░░░░   22.36 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   5514 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.17 % 
-Tuesday                  4031 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Wednesday                4833 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.30 % 
-Thursday                 4043 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.12 % 
-Friday                   4166 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.46 % 
-Saturday                 6533 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.97 % 
-Sunday                   7228 commits        █████░░░░░░░░░░░░░░░░░░░░   19.89 % 
+Monday                   5849 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.19 % 
+Tuesday                  4230 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.99 % 
+Wednesday                5151 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.38 % 
+Thursday                 4261 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.07 % 
+Friday                   4372 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.36 % 
+Saturday                 6963 commits        █████░░░░░░░░░░░░░░░░░░░░   18.09 % 
+Sunday                   7667 commits        █████░░░░░░░░░░░░░░░░░░░░   19.92 % 
 ```
 
 
@@ -64,19 +64,36 @@ Sunday                   7228 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-No Activity Tracked This Week
+Python                   8 mins              █████████████████████░░░░   83.03 % 
+JSON                     1 min               ████░░░░░░░░░░░░░░░░░░░░░   16.97 % 
 
 🔥 Editors: 
-No Activity Tracked This Week
+VS Code                  9 mins              █████████████████████████   100.00 % 
 
 💻 Operating System: 
-No Activity Tracked This Week
+Windows                  9 mins              █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-No AI Coding Activity Tracked This Week
+⏱ AI Coding Time: 0 secs (3.17%)
+
+✍️ 0 lines written by AI, 20 lines written by hand (0.0% AI-written)
+
+🔤 25,781 Input Tokens, 343 Output Tokens
+
+💵 $0.08 Estimated AI Cost This Week
+
+🧠 1 AI Sessions, 1 AI Prompts
+
+Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
+
+🔎 AI Coding Insights:
+🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
+📝 Concise Prompter — average 4 characters per prompt
+🎯 One-Shot Prompter — average 1 prompts per session
+🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
 **I Mostly Code in JavaScript** 
@@ -96,7 +113,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 10/08/2026 19:05:34 UTC
+ Last Updated on 10/08/2026 19:34:34 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
