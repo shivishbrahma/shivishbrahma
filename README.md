@@ -21,7 +21,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C564%20hrs%2014%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C568%20hrs%201%20min-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2013%20mins-blue?style=for-the-badge)
 
@@ -64,38 +64,40 @@ Sunday                   8361 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   8 hrs 23 mins       ██████████████░░░░░░░░░░░   57.75 % 
-HTML                     3 hrs 52 mins       ███████░░░░░░░░░░░░░░░░░░   26.64 % 
-JavaScript               1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.95 % 
-SQL                      47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.43 % 
-Jinja2                   19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.28 % 
+Python                   11 hrs 14 mins      ███████████████░░░░░░░░░░   60.63 % 
+HTML                     3 hrs 52 mins       █████░░░░░░░░░░░░░░░░░░░░   20.88 % 
+SQL                      1 hr 21 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
+JavaScript               1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
+JSON                     21 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.96 % 
 
 🔥 Editors: 
-VS Code                  14 hrs 31 mins      █████████████████████████   100.00 % 
+VS Code                  18 hrs 23 mins      █████████████████████████   99.27 % 
+Claude Code              8 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 
 💻 Operating System: 
-Windows                  14 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  18 hrs 31 mins      █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 0 secs (0.04%)
+⏱ AI Coding Time: 14 mins (1.28%)
 
-✍️ 0 lines written by AI, 1,210 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 1,455 lines written by hand (0.0% AI-written)
 
-🔤 25,781 Input Tokens, 343 Output Tokens
+🔤 591,939 Input Tokens, 3,764 Output Tokens
 
-💵 $0.08 Estimated AI Cost This Week
+💵 $3.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 1 AI Prompts
+🧠 2 AI Sessions, 10 AI Prompts
 
+Opus                     0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 Github-Copilot           0 lines             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.00 % 
 
 🔎 AI Coding Insights:
 🧑‍💻 Mostly Hands-On — 0.0% of written lines came from AI
-📝 Concise Prompter — average 4 characters per prompt
-🎯 One-Shot Prompter — average 1 prompts per session
+📄 Detailed Prompter — average 648 characters per prompt
+🔁 Iterative Prompter — average 5 prompts per session
 🔍 Hands-On Reviewer — 100.0% of changed lines were hand-edited
 ```
 
@@ -116,7 +118,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 15/08/2026 19:09:23 UTC
+ Last Updated on 15/08/2026 19:31:09 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
