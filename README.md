@@ -21,7 +21,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C586%20hrs%2045%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C586%20hrs%2046%20mins-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2049%20mins-blue?style=for-the-badge)
 
@@ -64,27 +64,27 @@ Sunday                   8369 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      5 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   38.34 % 
-PHP                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   14.78 % 
-Text                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
-Other                    1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.79 % 
-JSON                     57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.62 % 
+Vue                      5 hrs 34 mins       ██████████░░░░░░░░░░░░░░░   39.52 % 
+PHP                      2 hrs 8 mins        ████░░░░░░░░░░░░░░░░░░░░░   15.23 % 
+Text                     1 hr 37 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.56 % 
+Other                    59 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.09 % 
+JavaScript               53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.30 % 
 
 🔥 Editors: 
-VS Code                  11 hrs 9 mins       ███████████████████░░░░░░   76.82 % 
-Sublime Text             3 hrs 7 mins        █████░░░░░░░░░░░░░░░░░░░░   21.57 % 
-Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.61 % 
+VS Code                  10 hrs 43 mins      ███████████████████░░░░░░   76.12 % 
+Sublime Text             3 hrs 7 mins        ██████░░░░░░░░░░░░░░░░░░░   22.22 % 
+Claude Code              14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.66 % 
 
 💻 Operating System: 
-Windows                  14 hrs 31 mins      █████████████████████████   100.00 % 
+Windows                  14 hrs 5 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 36 mins (4.14%)
+⏱ AI Coding Time: 36 mins (4.27%)
 
-✍️ 0 lines written by AI, 11,790 lines written by hand (0.0% AI-written)
+✍️ 0 lines written by AI, 11,763 lines written by hand (0.0% AI-written)
 
 🔤 757,016 Input Tokens, 3,844 Output Tokens
 
@@ -118,7 +118,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 28/08/2026 19:01:11 UTC
+ Last Updated on 28/08/2026 19:23:36 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
