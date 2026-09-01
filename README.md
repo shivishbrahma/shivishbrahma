@@ -21,11 +21,11 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C591%20hrs%2023%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C592%20hrs%201%20min-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2049%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-104.36%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-101.39%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4341 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.41 % 
-🌆 Daytime                8848 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-🌃 Evening                19175 commits       ███████████░░░░░░░░░░░░░░   45.97 % 
-🌙 Night                  9344 commits        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+🌞 Morning                4211 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.45 % 
+🌆 Daytime                8575 commits        █████░░░░░░░░░░░░░░░░░░░░   21.27 % 
+🌃 Evening                18500 commits       ███████████░░░░░░░░░░░░░░   45.90 % 
+🌙 Night                  9023 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   6377 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
-Tuesday                  4607 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
-Wednesday                5597 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.42 % 
-Thursday                 4540 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.89 % 
-Friday                   4664 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.18 % 
-Saturday                 7550 commits        █████░░░░░░░░░░░░░░░░░░░░   18.10 % 
-Sunday                   8373 commits        █████░░░░░░░░░░░░░░░░░░░░   20.08 % 
+Monday                   6172 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.31 % 
+Tuesday                  4454 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.05 % 
+Wednesday                5397 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
+Thursday                 4398 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.91 % 
+Friday                   4523 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.22 % 
+Saturday                 7282 commits        █████░░░░░░░░░░░░░░░░░░░░   18.07 % 
+Sunday                   8083 commits        █████░░░░░░░░░░░░░░░░░░░░   20.05 % 
 ```
 
 
@@ -64,18 +64,18 @@ Sunday                   8373 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Vue                      2 hrs 8 mins        ███████████░░░░░░░░░░░░░░   43.83 % 
-Python                   48 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.52 % 
-Text                     45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
-JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
-Markdown                 19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+Vue                      2 hrs 8 mins        ██████████░░░░░░░░░░░░░░░   40.58 % 
+Python                   1 hr 16 mins        ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
+Text                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
+Markdown                 28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.12 % 
+JavaScript               23 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.50 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 6 mins        █████████████████████░░░░   84.29 % 
-Sublime Text             45 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.71 % 
+VS Code                  4 hrs 43 mins       ██████████████████████░░░   89.93 % 
+Sublime Text             31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.07 % 
 
 💻 Operating System: 
-Windows                  4 hrs 52 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 15 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 01/09/2026 18:50:18 UTC
+ Last Updated on 01/09/2026 19:11:27 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
