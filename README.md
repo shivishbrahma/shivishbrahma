@@ -21,7 +21,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C612%20hrs%2038%20mins-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C612%20hrs%2054%20mins-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2049%20mins-blue?style=for-the-badge)
 
@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 199.5 kB Used in GitHub's Storage 
+> 📦 199.6 kB Used in GitHub's Storage 
  > 
 > 🏆 361 Contributions in the Year 2026
  > 
@@ -64,18 +64,18 @@ Sunday                   8264 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               2 hrs 45 mins       ██████░░░░░░░░░░░░░░░░░░░   25.18 % 
-JavaScript               1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.43 % 
-TeX                      1 hr 19 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
-Text                     1 hr 13 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.20 % 
-Markdown                 37 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.71 % 
+TypeScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
+TeX                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
+Text                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
+Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
+Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
 
 🔥 Editors: 
-VS Code                  9 hrs 27 mins       ██████████████████████░░░   86.11 % 
-Sublime Text             1 hr 31 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.89 % 
+VS Code                  4 hrs 24 mins       ███████████████████░░░░░░   74.73 % 
+Sublime Text             1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
 
 💻 Operating System: 
-Windows                  10 hrs 58 mins      █████████████████████████   100.00 % 
+Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 19/09/2026 19:11:56 UTC
+ Last Updated on 19/09/2026 19:37:24 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
