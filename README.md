@@ -64,18 +64,18 @@ Sunday                   8264 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ██████░░░░░░░░░░░░░░░░░░░   23.70 % 
-TeX                      1 hr 19 mins        ██████░░░░░░░░░░░░░░░░░░░   22.40 % 
-Text                     1 hr 18 mins        ██████░░░░░░░░░░░░░░░░░░░   22.10 % 
-Python                   37 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.54 % 
-Markdown                 32 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.23 % 
+TeX                      38 mins             ███████░░░░░░░░░░░░░░░░░░   29.94 % 
+Python                   37 mins             ███████░░░░░░░░░░░░░░░░░░   29.20 % 
+INI                      20 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.74 % 
+Text                     18 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.68 % 
+Git Config               8 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.90 % 
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       ███████████████████░░░░░░   74.73 % 
-Sublime Text             1 hr 29 mins        ██████░░░░░░░░░░░░░░░░░░░   25.27 % 
+VS Code                  1 hr 37 mins        ███████████████████░░░░░░   76.54 % 
+Sublime Text             30 mins             ██████░░░░░░░░░░░░░░░░░░░   23.46 % 
 
 💻 Operating System: 
-Windows                  5 hrs 54 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 7 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 20/09/2026 19:10:24 UTC
+ Last Updated on 20/09/2026 19:30:25 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
