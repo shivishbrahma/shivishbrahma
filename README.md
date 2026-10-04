@@ -21,7 +21,7 @@
 -->
 ## Weekly Development
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-3%2C619%20hrs-blue?style=for-the-badge)
+![Code Time](http://img.shields.io/badge/Code%20Time-3%2C622%20hrs%2029%20mins-blue?style=for-the-badge)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-12%20hrs%2049%20mins-blue?style=for-the-badge)
 
@@ -64,18 +64,18 @@ Sunday                   8265 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-TeX                      3 hrs 21 mins       ██████████████░░░░░░░░░░░   55.05 % 
-Python                   1 hr 55 mins        ████████░░░░░░░░░░░░░░░░░   31.50 % 
-Text                     44 mins             ███░░░░░░░░░░░░░░░░░░░░░░   12.01 % 
-JSON                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.05 % 
-Jinja2                   1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.35 % 
+Python                   4 hrs 37 mins       ████████████░░░░░░░░░░░░░   48.14 % 
+TeX                      3 hrs 21 mins       █████████░░░░░░░░░░░░░░░░   35.04 % 
+Text                     1 hr 18 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.70 % 
+JSON                     11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.95 % 
+Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.47 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 37 mins       ███████████████████████░░   92.25 % 
-Sublime Text             28 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+VS Code                  8 hrs 48 mins       ███████████████████████░░   91.79 % 
+Sublime Text             47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.21 % 
 
 💻 Operating System: 
-Windows                  6 hrs 6 mins        █████████████████████████   100.00 % 
+Windows                  9 hrs 35 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +101,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 04/10/2026 18:46:30 UTC
+ Last Updated on 04/10/2026 19:10:16 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
