@@ -25,11 +25,11 @@
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%207%20mins-blue?style=for-the-badge)
 
-![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-11.27%20million%20lines%20of%20code-blue?style=for-the-badge)
+![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-17.16%20million%20lines%20of%20code-blue?style=for-the-badge)
 
 **🐱 My GitHub Data** 
 
-> 📦 207.9 kB Used in GitHub's Storage 
+> 📦 208.0 kB Used in GitHub's Storage 
  > 
 > 🏆 368 Contributions in the Year 2026
  > 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                817 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.14 % 
-🌆 Daytime                1728 commits        ███████░░░░░░░░░░░░░░░░░░   27.79 % 
-🌃 Evening                2447 commits        ██████████░░░░░░░░░░░░░░░   39.36 % 
-🌙 Night                  1225 commits        █████░░░░░░░░░░░░░░░░░░░░   19.70 % 
+🌞 Morning                1040 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.97 % 
+🌆 Daytime                2181 commits        ██████░░░░░░░░░░░░░░░░░░░   25.10 % 
+🌃 Evening                3654 commits        ███████████░░░░░░░░░░░░░░   42.05 % 
+🌙 Night                  1815 commits        █████░░░░░░░░░░░░░░░░░░░░   20.89 % 
 ```
 📅 **I'm Most Productive on Friday** 
 
 ```text
-Monday                   802 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.90 % 
-Tuesday                  753 commits         ███░░░░░░░░░░░░░░░░░░░░░░   12.11 % 
-Wednesday                590 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   09.49 % 
-Thursday                 1091 commits        ████░░░░░░░░░░░░░░░░░░░░░   17.55 % 
-Friday                   1203 commits        █████░░░░░░░░░░░░░░░░░░░░   19.35 % 
-Saturday                 895 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.40 % 
-Sunday                   883 commits         ████░░░░░░░░░░░░░░░░░░░░░   14.20 % 
+Monday                   1157 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.31 % 
+Tuesday                  1027 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.82 % 
+Wednesday                939 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
+Thursday                 1335 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.36 % 
+Friday                   1449 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.67 % 
+Saturday                 1378 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.86 % 
+Sunday                   1405 commits        ████░░░░░░░░░░░░░░░░░░░░░   16.17 % 
 ```
 
 
@@ -64,18 +64,16 @@ Sunday                   883 commits         ████░░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   2 hrs 57 mins       ████████████████████░░░░░   78.28 % 
-Text                     34 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.42 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-Bash                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.17 % 
-RPMSpec                  1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.82 % 
+Python                   1 hr 52 mins        ███████████████████████░░   90.71 % 
+YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+Text                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.04 % 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.37 % 
 
 🔥 Editors: 
-VS Code                  3 hrs 27 mins       ███████████████████████░░   91.67 % 
-Sublime Text             18 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+VS Code                  2 hrs 4 mins        █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  3 hrs 46 mins       █████████████████████████   100.00 % 
+Windows                  2 hrs 4 mins        █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -101,7 +99,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 11/10/2026 05:54:19 UTC
+ Last Updated on 11/10/2026 22:27:22 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
