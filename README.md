@@ -64,17 +64,17 @@ Sunday                   8274 commits        █████░░░░░░�
 
 ```text
 💬 Programming Languages: 
-Python                   3 hrs 58 mins       █████████████████░░░░░░░░   69.30 % 
-TypeScript               1 hr 27 mins        ██████░░░░░░░░░░░░░░░░░░░   25.36 % 
-Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.13 % 
-YAML                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
-Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.74 % 
+Python                   3 hrs 47 mins       █████████████████░░░░░░░░   68.55 % 
+TypeScript               1 hr 27 mins        ███████░░░░░░░░░░░░░░░░░░   26.38 % 
+Other                    7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.21 % 
+YAML                     5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.73 % 
+Text                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.76 % 
 
 🔥 Editors: 
-VS Code                  5 hrs 44 mins       █████████████████████████   100.00 % 
+VS Code                  5 hrs 31 mins       █████████████████████████   100.00 % 
 
 💻 Operating System: 
-Windows                  5 hrs 44 mins       █████████████████████████   100.00 % 
+Windows                  5 hrs 31 mins       █████████████████████████   100.00 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -100,7 +100,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 17/10/2026 19:04:04 UTC
+ Last Updated on 17/10/2026 19:19:17 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
