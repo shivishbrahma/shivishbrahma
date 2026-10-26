@@ -29,7 +29,7 @@
 
 **🐱 My GitHub Data** 
 
-> 📦 212.5 kB Used in GitHub's Storage 
+> 📦 212.6 kB Used in GitHub's Storage 
  > 
 > 🏆 368 Contributions in the Year 2026
  > 
@@ -42,21 +42,21 @@
 **I'm a Night 🦉** 
 
 ```text
-🌞 Morning                4172 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
-🌆 Daytime                8477 commits        █████░░░░░░░░░░░░░░░░░░░░   21.21 % 
-🌃 Evening                18377 commits       ███████████░░░░░░░░░░░░░░   45.98 % 
+🌞 Morning                4171 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.44 % 
+🌆 Daytime                8473 commits        █████░░░░░░░░░░░░░░░░░░░░   21.20 % 
+🌃 Evening                18373 commits       ███████████░░░░░░░░░░░░░░   45.98 % 
 🌙 Night                  8945 commits        ██████░░░░░░░░░░░░░░░░░░░   22.38 % 
 ```
 📅 **I'm Most Productive on Sunday** 
 
 ```text
-Monday                   6114 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.30 % 
-Tuesday                  4434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.09 % 
-Wednesday                5380 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+Monday                   6110 commits        ████░░░░░░░░░░░░░░░░░░░░░   15.29 % 
+Tuesday                  4434 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.10 % 
+Wednesday                5379 commits        ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
 Thursday                 4371 commits        ███░░░░░░░░░░░░░░░░░░░░░░   10.94 % 
 Friday                   4479 commits        ███░░░░░░░░░░░░░░░░░░░░░░   11.21 % 
-Saturday                 7207 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
-Sunday                   7986 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
+Saturday                 7205 commits        █████░░░░░░░░░░░░░░░░░░░░   18.03 % 
+Sunday                   7984 commits        █████░░░░░░░░░░░░░░░░░░░░   19.98 % 
 ```
 
 
@@ -96,7 +96,7 @@ Jinja                    1 repo              ░░░░░░░░░░░�
 ![Lines of Code chart](https://raw.githubusercontent.com/shivishbrahma/shivishbrahma/main/assets/bar_graph.png)
 
 
- Last Updated on 26/10/2026 20:18:02 UTC
+ Last Updated on 26/10/2026 20:37:18 UTC
 <!--END_SECTION:waka-->
 
 ## Languages Popping in My Projects
